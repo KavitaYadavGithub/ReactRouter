@@ -9,6 +9,7 @@ import CustomerData from './Customer';
 import CustomerDetails from './CustomerDetails';
 import CustomerFiles from './CustomerFiles';
 
+//Comments
 const navStyles:Partial<INavStyles>={root:{width:300}};
 const stackTokens:IStackTokens={childrenGap:40};
 
